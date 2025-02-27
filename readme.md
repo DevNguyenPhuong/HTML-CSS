@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    ![alt text](https://github.com/[DevNguyenPhuong]/[HTML-CSS]/blob/main/omnifood.jpg?raw=true)
+    ![alt text](https://github.com/DevNguyenPhuong/HTML-CSS/blob/main/omnifood.jpg?raw=true)
   <br />
 
   <div>
