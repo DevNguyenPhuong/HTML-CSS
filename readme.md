@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-      ![OmniFood](https://github.com/DevNguyenPhuong/HTML-CSS/raw/main/omnifood.jpg)
+      ![OmniFood](https://github.com/DevNguyenPhuong/HTML-CSS/blog/main/omnifood.jpg?raw=true)
   <br />
 
   <div>
