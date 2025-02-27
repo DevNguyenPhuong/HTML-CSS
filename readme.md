@@ -1,9 +1,5 @@
-<div align="center">
-  <br />
-      ![OmniFood](https://github.com/DevNguyenPhuong/HTML-CSS/blog/main/omnifood.jpg?raw=true)
-  <br />
+![Alt text](https://raw.githubusercontent.com/DevNguyenPhuong/HTML-CSS/main/omnifood.jpg)
 
-  <div>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript" />
 </div>
